@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T01:38:00.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Chug86tBDsOHCr81dyqd" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T01:42:52.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6xVxe5aN4s4-iU3YSqqR" version="20.8.20" type="github">
   <diagram name="페이지-1" id="7o3w4uXIKX3_cVfn29h3">
     <mxGraphModel dx="1434" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -182,10 +182,7 @@
           <mxGeometry x="130" y="373.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wY5E-rM3v8plbLJVekBO-84" value="Breadboard" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagGrid;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="410" y="255" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wY5E-rM3v8plbLJVekBO-86" value="Breadboard" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagGrid;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="636" y="255" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="255" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="wY5E-rM3v8plbLJVekBO-87" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -198,6 +195,57 @@
             <mxPoint x="778.5" y="263" as="sourcePoint" />
             <mxPoint x="753.5" y="263" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-91" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/6-electronic-led-icon-2-128.png;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;imageBorder=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="255" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-93" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/6-electronic-led-icon-2-128.png;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;imageBorder=none;" vertex="1" parent="1">
+          <mxGeometry x="494" y="280" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-94" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/6-electronic-led-icon-2-128.png;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;imageBorder=none;" vertex="1" parent="1">
+          <mxGeometry x="466" y="280" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-95" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/6-electronic-led-icon-2-128.png;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;imageBorder=none;" vertex="1" parent="1">
+          <mxGeometry x="438" y="255" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-96" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/6-electronic-led-icon-2-128.png;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;imageBorder=none;" vertex="1" parent="1">
+          <mxGeometry x="438" y="280" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-97" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/6-electronic-led-icon-2-128.png;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;imageBorder=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="280" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-98" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/6-electronic-led-icon-2-128.png;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;imageBorder=none;" vertex="1" parent="1">
+          <mxGeometry x="494" y="255" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-99" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/6-electronic-led-icon-2-128.png;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;imageBorder=none;" vertex="1" parent="1">
+          <mxGeometry x="466" y="255" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-101" value="Breadboard" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagGrid;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="640" y="255" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-102" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/6-electronic-led-icon-2-128.png;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;imageBorder=none;" vertex="1" parent="1">
+          <mxGeometry x="722" y="280" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-103" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/6-electronic-led-icon-2-128.png;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;imageBorder=none;" vertex="1" parent="1">
+          <mxGeometry x="698" y="280" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-104" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/6-electronic-led-icon-2-128.png;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;imageBorder=none;" vertex="1" parent="1">
+          <mxGeometry x="668" y="280" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-105" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/6-electronic-led-icon-2-128.png;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;imageBorder=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-106" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/6-electronic-led-icon-2-128.png;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;imageBorder=none;" vertex="1" parent="1">
+          <mxGeometry x="722" y="255" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-107" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/6-electronic-led-icon-2-128.png;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;imageBorder=none;" vertex="1" parent="1">
+          <mxGeometry x="698" y="255" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-108" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/6-electronic-led-icon-2-128.png;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;imageBorder=none;" vertex="1" parent="1">
+          <mxGeometry x="668" y="255" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-109" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/electronic-13/480/6-electronic-led-icon-2-128.png;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;imageBorder=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="255" width="28" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
