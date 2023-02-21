@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:EEFF00,100:a82da8&height=300&section=header&text=Project&nbsp;Team&nbsp;One&fontSize=90" />
-## Smart Aquarium Monitoring System
+<h2>Smart Aquarium Monitoring System</h2>
 <div align="center">
 	<img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
