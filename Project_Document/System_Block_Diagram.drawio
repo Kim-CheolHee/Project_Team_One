@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T02:14:03.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="clNgLmpuKxY9Y3knh2IC" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T02:33:02.636Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xFyvylFkdCRLC_Embnon" version="20.8.20" type="github">
   <diagram name="페이지-1" id="7o3w4uXIKX3_cVfn29h3">
-    <mxGraphModel dx="1434" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -324,6 +324,9 @@
             <mxPoint x="375" y="52.5" as="sourcePoint" />
             <mxPoint x="374.5" y="110" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-164" value="Aquarium Size&lt;br&gt;L 39 W 20 H 21" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="520" y="780" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
