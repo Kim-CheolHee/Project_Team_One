@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T01:10:58.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="zRWDwNMVzOlbYgoHIVNO" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T01:26:19.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xjA1P9l_ihbgJcvTmPCA" version="20.8.20" type="github">
   <diagram name="페이지-1" id="7o3w4uXIKX3_cVfn29h3">
     <mxGraphModel dx="1434" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -82,9 +82,6 @@
         <mxCell id="wY5E-rM3v8plbLJVekBO-43" value="" style="shape=mxgraph.signs.sports.whale_viewing;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="352" y="387.5" width="98" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="wY5E-rM3v8plbLJVekBO-45" value="Motion" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="700" y="310" width="75" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="wY5E-rM3v8plbLJVekBO-46" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="359" as="sourcePoint" />
@@ -102,6 +99,51 @@
             <mxPoint x="949" y="240" as="sourcePoint" />
             <mxPoint x="219" y="239" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-50" value="Arduino Uno R3" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="255" width="150" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-52" value="TMP" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="wY5E-rM3v8plbLJVekBO-50">
+          <mxGeometry y="25" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-55" value="Wifi" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="wY5E-rM3v8plbLJVekBO-50">
+          <mxGeometry x="75" y="25" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-63" value="PH" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="wY5E-rM3v8plbLJVekBO-50">
+          <mxGeometry y="65" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-59" value="Arduino Uno R3" style="swimlane;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="780" y="255" width="150" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-60" value="TDS" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="wY5E-rM3v8plbLJVekBO-59">
+          <mxGeometry y="25" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-61" value="Wifi" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="wY5E-rM3v8plbLJVekBO-59">
+          <mxGeometry x="75" y="25" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-45" value="Motion" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="wY5E-rM3v8plbLJVekBO-59">
+          <mxGeometry y="65" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-62" value="Water&lt;br&gt;Temperature &lt;br&gt;PH" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="230" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-64" value="" style="shape=link;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="177" y="267" as="sourcePoint" />
+            <mxPoint x="257" y="267" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-65" value="" style="shape=link;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="910" y="267" as="sourcePoint" />
+            <mxPoint x="990" y="267" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-66" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#000000;strokeColor=#000000;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;" vertex="1" parent="1">
+          <mxGeometry x="823.5" y="360" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wY5E-rM3v8plbLJVekBO-70" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAC0AAAArCAYAAADsQwGHAAAACXBIWXMAAA7DAAAOwwHHb6hkAAADnElEQVR4Xu2YS2gTURSGY1GMKFgkYrWttlA1IGjciNqgdVdQpItuhZaCO0kkxqBFUhBEjQstrm0XVrcuBHFjCy2I4iMVim/ShY+KVuurVjQZvxNmZAzJ3DEJyRTmwmUm93HOd/8598ydeDxucRVwFXAVcKwC4XD4bEtLy2xXV9eQYyHNYIBe9Pl8Gm3ZmkgkDjsaPBAI3GloaMgYwHJFcYF3ZmlqanoOcNoMbFL7iOOoBTgfrNFWV1fnLLUlJKyAjb7BwcEDjlA7GAzetAMci8WuTE5OrqwqNCktTIZ4qwKura2V7HEplUo1VxU4FAoJ8Gc7wKztkaZpCzo7O+FOra0KOMAR1PthE/iaQLJJNdmIfr+/8puRl8YZFJ5VAQskIXEcZdfJvYyX69jY2I6KKo3TJ+TgbypgMsn30dHRVoAbzcC07awG8JwK2FATYB/w2RCSNn7XVxr4KQ7/eS3ngwduhpS2Oh6P9xG7P2UM4BptqyoKjNPbKnV1NWdQcw2b9IJxUOrp6bkMsM8KeGBgoJvYj5VlURjbhlrjdhTu6Oi4IfFLajsvOVkWAUiEthVWMDyZNBnlt4wfHh5uKwkctfpQ650dhYE7ipoC3G8AAyKhZFmA3KKfRbKL5Pdu1RzLfoy9VikMYBrgqBjiNT4uAAa0QLS3t9+ycsLcY2ZR7EDXWBmcmpqqx+l1ID7lG0f7HPm6PxqNJnjEX1F6s9fr9fT29kZZQFLmJJPJPQrlLBmKVp3V+4F6iYpvDFUA/kIonJMURt+0vgk1ycviiDlyzT5yFn63kHOUjv+v0gUXwgbcT8Z4ANhpYxApLEbbPQkbnB2SHAxw9qCk5+WA2SBjP0qfhIwsjrqY6qUupC6lLsf+1RzotqLURaUNKCkOM3weSW72YPwUThbJPdcaxmwC6r4OnBGAXGdmtWVRhWpZoMW5vgnl8WZQfS8AzSxkGviTKC4nu2xWAfwFwMsKqSMvFTOU6r6klMfjPyjAutqPBUr/KkkD/0HaOczLzrcsAiHZREKkUM1RuuSU90o3mEbtVgCWCCwQ71nUPhWwnX45AeZA77Izr+AYDHbraqeJ7QkZyNvxISGSzcvlKHqO/xtCCBMs2S6PVNTOsImelWwsjwGgQzlKb1f5USb2SCRygjPFEApsVBkrsl+Orebyq0g7FZ9mDo+tKu9KpVUGytHPPpnQP93EnPwrNT/KyMhIIyG4fn7QupSuAq4C81OBP7PMXdA3BWWlAAAAAElFTkSuQmCC;" vertex="1" parent="1">
+          <mxGeometry x="778.5" y="353.5" width="45" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
