@@ -1,0 +1,14 @@
+연결 가능한 wifi 목록 : AT+CWLAP
+
+wifi 연결 : AT+CWJAP="mica","10041004"
+AT+CWJAP="kj","1004100400"
+
+현재 연결된 wifi : AT+CWJAP?
+wifi 연결 해제 : AT+CWQAP
+
+연결된 ip 확인 : AT+CIFSR
+
+모드 설정(1~3) : AT+CWMODE?
+AT+CWMODE=1
+
+192.168.0.48
