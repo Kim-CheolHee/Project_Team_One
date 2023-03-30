@@ -9,4 +9,4 @@
 	<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" />
 </div>
 <h2>프로젝트 시연영상 : https://www.youtube.com/watch?v=NMEAGm3t32k</h2>
-![pannel](https://user-images.githubusercontent.com/114078953/228756852-9520da68-642a-41f8-a6d7-82de5425f99b.jpg)
+![pannel](https://user-images.githubusercontent.com/114078953/228757605-7367d6c7-6ad4-477a-8118-049e82495b5b.jpg)
