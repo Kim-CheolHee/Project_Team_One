@@ -8,5 +8,5 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" />
 </div>
-<h2>프로젝트 시연영상 : https://www.youtube.com/watch?v=KGVS_BahybM</h2>
+<h2>프로젝트 시연영상 : https://www.youtube.com/watch?v=NMEAGm3t32k</h2>
 
